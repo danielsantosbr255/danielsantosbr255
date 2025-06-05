@@ -28,7 +28,7 @@ Meu objetivo é evoluir como **Fullstack Developer**, criando soluções profiss
 - **Front-End**:
   - `React.js`, `Next.js`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Tailwind CSS`
 - **APIs & Integrações**:
-  - RESTful APIs, Auth (JWT & OAuth), Supabase Auth, Uploads, Stripe
+  - RESTful APIs, Auth (JWT & OAuth), Paypal, Stripe
 - **Ferramentas**:
   - `Git`, `GitHub`, `Postman`, `Docker`, `VS Code`, `ESLint`, `Prettier`
 
@@ -88,13 +88,13 @@ Funcionalidades em desenvolvimento:
 
 Embora meu foco atual seja desenvolvimento web, também atuo como **Game Developer independente**, criando sistemas e ferramentas para a comunidade de jogos.
 
-- Experiência com **UPBGE 0.3 / 2.79** e **Range Engine**
+- Experiência com **Python**, **UPBGE 0.3 / 2.79** e **Range Engine**
 - Desenvolvimento de templates vendáveis para itch.io
 - Sistemas como:
   - Direção de veículos (com física realista)
+  - AI avançada (Tráfego, Inimigos, Pedestres)
   - Movimento com parkour e foot placement
   - Sistema de armas, mira e combate TPS
-  - Minimapas e raycast com lógica de AI avançada
 - Canal e marca pessoal: **FireForge**
 
 ---
@@ -102,8 +102,8 @@ Embora meu foco atual seja desenvolvimento web, também atuo como **Game Develop
 ## 📫 Contato
 
 - ✉️ Email: **asdanielsantos@gmail.com**
-- 🌐 itch.io: [[fireforge.itch.io](https://fireforge.itch.io)](https://danielsantoscbr.itch.io/)
-- 📺 YouTube: [[@fireforgegames](https://youtube.com/@fireforgegames)](https://www.youtube.com/@FireforgeLabs)
+- 🌐 itch.io: https://danielsantoscbr.itch.io
+- 📺 YouTube: https://youtube.com/@fireforgegames
 
 ---
 
