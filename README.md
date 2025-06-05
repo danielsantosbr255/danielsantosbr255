@@ -28,7 +28,7 @@ Meu objetivo é evoluir como **Fullstack Developer**, criando soluções profiss
 - **Front-End**:
   - `React.js`, `Next.js`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Tailwind CSS`
 - **APIs & Integrações**:
-  - RESTful APIs, Auth (JWT & OAuth), Paypal, Stripe
+  - `RESTful APIs`, `Auth (JWT & OAuth)`, `Paypal`, `Stripe`
 - **Ferramentas**:
   - `Git`, `GitHub`, `Postman`, `Docker`, `VS Code`, `ESLint`, `Prettier`
 
