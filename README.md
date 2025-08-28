@@ -73,7 +73,7 @@ Meu objetivo é evoluir como **Fullstack Developer**, criando soluções profiss
 
 Funcionalidades em desenvolvimento:
 
-- 🛒 Cadastro/Login com autenticação segura (JWT)
+- 🛒 Cadastro/Login com autenticação segura
 - 🧾 Painel administrativo com CRUD completo de produtos
 - 📦 Integração com banco de dados relacional usando **Prisma + PostgreSQL**
 - 🧑‍💼 Painel do cliente com histórico de pedidos e controle de perfil
@@ -102,6 +102,7 @@ Embora meu foco atual seja desenvolvimento web, também atuo como **Game Develop
 ## 📫 Contato
 
 - ✉️ Email: **asdanielsantos@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/daniel-santos-cbr
 - 🌐 itch.io: https://danielsantoscbr.itch.io
 - 📺 YouTube: https://youtube.com/@fireforgegames
 
