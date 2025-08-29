@@ -1,18 +1,19 @@
-<h1 align="center">🚀 Desenvolvedor Web Fullstack | Back-End Focused 🚀</h1>
+🎮 Meu GitHub como Game Developer - https://github.com/DanielSilvaBA
+
+<h1 align="center">🚀 Fullstack Web Developer 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experiência+8%20Anos-Programação-informational?style=for-the-badge&logo=codeforces" />
   <img src="https://img.shields.io/badge/Web%20Developer-2%20Anos-blue?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Back--End%20Focus-Node.js%20&%20Nest.js-critical?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Back--End%20-Node.js%20&%20Nest.js-critical?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Front--End%20-Next.js%20&%20React.js-critical?style=for-the-badge&logo=nestjs" />
 </p>
 
 ---
 
 ## 👋 Sobre mim
 
-Sou um desenvolvedor com mais de **8 anos de experiência em programação**, tendo dedicado os **últimos 2 anos ao desenvolvimento web** com foco em **back-end moderno**, arquitetura escalável e boas práticas de código.
-
-Atualmente estou criando **um e-commerce fullstack completo**, do zero, usando tecnologias modernas para aprender profundamente cada aspecto de uma aplicação web robusta: desde o banco de dados, autenticação e APIs até o front-end reativo e responsivo.
+Sou um desenvolvedor com mais de **8 anos de experiência em programação**, tendo dedicado os **últimos 2 anos ao desenvolvimento web** com foco em arquitetura escalável e boas práticas de código.
 
 Meu objetivo é evoluir como **Fullstack Developer**, criando soluções profissionais, limpas e bem documentadas — sempre prezando por código bem organizado, reutilizável e de fácil manutenção.
 
@@ -71,7 +72,7 @@ Meu objetivo é evoluir como **Fullstack Developer**, criando soluções profiss
 
 > Em constante evolução, com o objetivo de dominar a stack fullstack moderna.
 
-Funcionalidades em desenvolvimento:
+Funcionalidades:
 
 - 🛒 Cadastro/Login com autenticação segura
 - 🧾 Painel administrativo com CRUD completo de produtos
@@ -84,7 +85,7 @@ Funcionalidades em desenvolvimento:
 
 ---
 
-## 🎮 Game Dev (Side Quest)
+## 🎮 Game Dev
 
 Embora meu foco atual seja desenvolvimento web, também atuo como **Game Developer independente**, criando sistemas e ferramentas para a comunidade de jogos.
 
