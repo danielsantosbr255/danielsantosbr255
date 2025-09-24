@@ -1,127 +1,70 @@
-🎮 Meu GitHub como Game Developer - https://github.com/DanielSilvaBA
 
-<h1 align="center">🚀 Fullstack Web Developer 🚀</h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Ol%C3%A1+sou+o+Daniel;Desenvolvedor+Web+Fullstack">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=2000&color=000000&center=true&vCenter=true&width=1200&lines=Ol%C3%A1+sou+o+Daniel;Desenvolvedor+Web+Fullstack">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+o+Daniel;Desenvolvedor+Web+Fullstack;Fullstack+Web+Developer" alt="Typing SVG">
+  </picture>
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experiência+8%20Anos-Programação-informational?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Web%20Developer-2%20Anos-blue?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Back--End%20-Node.js%20&%20Nest.js-critical?style=for-the-badge&logo=nestjs" />
-  <img src="https://img.shields.io/badge/Front--End%20-Next.js%20&%20React.js-critical?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Game%20Developer-7%2B%20Anos-informational?style=for-the-badge&logo=unity" alt="Experiência como Game Developer">
+  <img src="https://img.shields.io/badge/Fullstack%20Web-1%2B%20Anos-blue?style=for-the-badge&logo=react" alt="Experiência em Web Development">
+  <img src="https://img.shields.io/badge/Back--End-Node.js%20%7C%20Nest.js-critical?style=for-the-badge&logo=nestjs" alt="Tecnologias de Back-End">
+  <img src="https://img.shields.io/badge/Front--End-Next.js%20%7C%20React.js-critical?style=for-the-badge&logo=nextdotjs" alt="Tecnologias de Front-End">
 </p>
-
----
 
 ## 👋 Sobre mim
+Sou **Desenvolvedor Web Fullstack** com base sólida em programação adquirida em mais de **8 anos desenvolvendo jogos**. Atualmente 
+dedicado ao **desenvolvimento web**, com experiência em backend, frontend e bancos de dados relacionais e não relacionais. 
+Perfil autodidata, adaptável e comprometido com boas práticas, escalabilidade e aprendizado contínuo.
 
-Sou um desenvolvedor com mais de **8 anos de experiência em programação**, tendo dedicado os **últimos 2 anos ao desenvolvimento web** com foco em arquitetura escalável e boas práticas de código.
+Minha jornada começou com o desenvolvimento de jogos e, agora, migrei para o desenvolvimento web, buscando evoluir continuamente e dominar novas tecnologias.
 
-Meu objetivo é evoluir como **Fullstack Developer**, criando soluções profissionais, limpas e bem documentadas — sempre prezando por código bem organizado, reutilizável e de fácil manutenção.
+## 🚀 Tecnologias que utilizo
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,react,nextjs,tailwind,nodejs,nestjs,express,postgres,mongodb,docker,git,github,vscode&perline=30" />
+</div>
 
-## 🛠️ Stack de Desenvolvimento Web
+<br/>
 
-### 🧠 Linguagens & Frameworks
-
-- **Back-End**:
-  - `Node.js`, `NestJS`, `Prisma ORM`, `TypeScript`
-  - `PostgreSQL`, `MongoDB`, `Docker`, `Supabase`, `AWS EC2`
-- **Front-End**:
-  - `React.js`, `Next.js`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Tailwind CSS`
-- **APIs & Integrações**:
-  - `RESTful APIs`, `Auth (JWT & OAuth)`, `Paypal`, `Stripe`
-- **Ferramentas**:
-  - `Git`, `GitHub`, `Postman`, `Docker`, `VS Code`, `ESLint`, `Prettier`
-
----
-
-## 💻 Tecnologias que domino
-
-<p align="left">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-
-  <!-- Front-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
-
-  <!-- Back-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nestjs.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-
-  <!-- Banco de dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+## 📈 Estatísticas & Top Linguagens
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=danielsantosbr255&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="GitHub Stats" 
+    height="200"
+  />  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantosbr255&theme=tokyonight&langs_count=4&card_width=500&custom_title=Linguagens%20Mais%20Usadas&layout=normal" 
+    alt="Top Linguagens" 
+    height="195" 
+  />
 </p>
 
----
+## 📊 Meus Projetos em Destaque
 
-## 🧪 Projeto em Destaque: E-commerce Fullstack
+<div align="center" width="100%">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielsantosbr255&repo=study-bookstore&theme=tokyonight&description_lines_count=2&show_owner=true)](https://github.com/danielsantosbr255/study-bookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielsantosbr255&repo=study-leetcode&theme=tokyonight&description_lines_count=2&show_owner=true)](https://github.com/danielsantosbr255/study-leetcode)
 
-> Em constante evolução, com o objetivo de dominar a stack fullstack moderna.
+</div>
 
-Funcionalidades:
+<br/>
 
-- 🛒 Cadastro/Login com autenticação segura
-- 🧾 Painel administrativo com CRUD completo de produtos
-- 📦 Integração com banco de dados relacional usando **Prisma + PostgreSQL**
-- 🧑‍💼 Painel do cliente com histórico de pedidos e controle de perfil
-- 💳 Checkout integrado com gateway de pagamento
-- ☁️ Deploy automatizado em **AWS EC2** com Docker
-- 📁 Upload de imagens (via Cloudinary)
-- ⚙️ Design escalável com boas práticas de arquitetura e reusabilidade
+<div align="center">
+  
+# 📫 Conecte-se comigo
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:asdanielsantos@gmail.com) &nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-santos-cbr) &nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/daniel_santosdev/) &nbsp;&nbsp;
 
----
-
-## 🎮 Game Dev
-
-Embora meu foco atual seja desenvolvimento web, também atuo como **Game Developer independente**, criando sistemas e ferramentas para a comunidade de jogos.
-
-- Experiência com **Python**, **UPBGE 0.3 / 2.79** e **Range Engine**
-- Desenvolvimento de templates vendáveis para itch.io
-- Sistemas como:
-  - Direção de veículos (com física realista)
-  - AI avançada (Tráfego, Inimigos, Pedestres)
-  - Movimento com parkour e foot placement
-  - Sistema de armas, mira e combate TPS
-- Canal e marca pessoal: **FireForge**
-
----
-
-## 📫 Contato
-
-- ✉️ Email: **asdanielsantos@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/daniel-santos-cbr
-- 🌐 itch.io: https://danielsantoscbr.itch.io
-- 📺 YouTube: https://youtube.com/@fireforgegames
-
----
+<br/>
 
 ## 🧠 Filosofia de Código
-
-> **"Primeiro faça funcionar. Depois faça limpo. Então, faça rápido."**  
-> <em>– Kent Beck</em>
-
-> **"Código que não é testado é código quebrado."**  
-> <em>– Autor desconhecido</em>
-
-> **"Simplicidade é a sofisticação máxima."**  
-> <em>– Leonardo da Vinci</em>
-
----
-
-<p align="center">
-  🔥 Feito com dedicação por <strong>Daniel Santos</strong> • Dev Web & Game Dev • Desde 2023 na Web
-</p>
+> _"Primeiro faça funcionar. Depois faça limpo. Então, faça rápido."_ — **Kent Beck**  
+> _"Código que não é testado é código quebrado."_ — **Autor desconhecido**  
+> _"Simplicidade é a sofisticação máxima."_ — **Leonardo da Vinci**
+</div>
