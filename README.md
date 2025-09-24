@@ -34,12 +34,12 @@ Minha jornada começou com o desenvolvimento de jogos e, agora, migrei para o de
   <img 
     src="https://github-readme-stats.vercel.app/api?username=danielsantosbr255&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats" 
-    height="200"
+    height="180"
   />  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantosbr255&theme=tokyonight&langs_count=4&card_width=500&custom_title=Linguagens%20Mais%20Usadas&layout=normal" 
     alt="Top Linguagens" 
-    height="195" 
+    height="180" 
   />
 </p>
 
@@ -64,7 +64,7 @@ Minha jornada começou com o desenvolvimento de jogos e, agora, migrei para o de
 <br/>
 
 ## 🧠 Filosofia de Código
-> _"Primeiro faça funcionar. Depois faça limpo. Então, faça rápido."_ — **Kent Beck**  
-> _"Código que não é testado é código quebrado."_ — **Autor desconhecido**  
-> _"Simplicidade é a sofisticação máxima."_ — **Leonardo da Vinci**
+_"Primeiro faça funcionar. Depois faça limpo. Então, faça rápido."_ — **Kent Beck**  
+_"Código que não é testado é código quebrado."_ — **Autor desconhecido**  
+_"Simplicidade é a sofisticação máxima."_ — **Leonardo da Vinci**
 </div>
