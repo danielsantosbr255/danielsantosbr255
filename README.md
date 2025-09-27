@@ -60,6 +60,7 @@ Minha jornada começou com o desenvolvimento de jogos e, agora, migrei para o de
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:asdanielsantos@gmail.com) &nbsp;&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-santos-cbr) &nbsp;&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/daniel_santosdev/) &nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=github)](https://github.com/DanielSilvaBA) &nbsp;&nbsp;
 
 <br/>
 
