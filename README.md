@@ -67,8 +67,9 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 
 <br/>
   
-# 📫 Conecte-se comigo
 <div align="center">
+  
+# 📫 Conecte-se comigo
   <a href="mailto:asdanielsantos@gmail.com">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -86,26 +87,26 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@FireforgeLabs">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" width="40"/>
-  </a>
+  </a>  
 </div>
-
 
 <br/>
 
-## 🧠 Filosofia de Código
 <div align="center" style="text-align:center;">
+  
+## 🧠 Filosofia de Código
 
 <div style="margin: 15px 0; line-height: 1.5;">
   ✨ <i>"Primeiro faça funcionar. Depois faça limpo. Então, faça rápido."</i><br>
   - <b>Kent Beck</b>
 </div>
-<hr style="width: 50%; border: 1px solid #444; margin: 10px auto;">
+<br/>
 
 <div style="margin: 15px 0; line-height: 1.5;">
   🛡️ <i>"Código que não é testado é código quebrado."</i><br>
   - <b>Autor desconhecido</b>
 </div>
-<hr style="width: 50%; border: 1px solid #444; margin: 10px auto;">
+<br/>
 
 <div style="margin: 15px 0; line-height: 1.5;">
   🎨 <i>"Simplicidade é a sofisticação máxima."</i><br>
