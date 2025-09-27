@@ -8,14 +8,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game%20Developer-5%2B%20Anos-informational?style=for-the-badge&logo=unity" alt="Experiência como Game Developer">
+  <img src="https://img.shields.io/badge/Game%20Developer-8%2B%20Anos-informational?style=for-the-badge&logo=unity" alt="Experiência como Game Developer">
   <img src="https://img.shields.io/badge/Fullstack%20Web-1%2B%20Anos-blue?style=for-the-badge&logo=react" alt="Experiência em Web Development">
   <img src="https://img.shields.io/badge/Back--End-Node.js%20%7C%20Nest.js-critical?style=for-the-badge&logo=nestjs" alt="Tecnologias de Back-End">
   <img src="https://img.shields.io/badge/Front--End-Next.js%20%7C%20React.js-critical?style=for-the-badge&logo=nextdotjs" alt="Tecnologias de Front-End">
 </p>
 
 ## 🧑‍💻 Sobre mim
-Minha história na programação começou no universo dos jogos, onde passei mais de 5 anos criando, testando e aprendendo na prática como transformar ideias em algo que realmente funciona. Foi aí que construí uma base sólida em lógica, criatividade e solução de problemas.
+Minha história na programação começou no universo dos jogos, onde passei mais de 8 anos criando, testando e aprendendo na prática como transformar ideias em algo que realmente funciona. Foi aí que construí uma base sólida em lógica, criatividade e solução de problemas.
 
 Com o tempo, senti a necessidade de explorar novos caminhos e encontrei no desenvolvimento web um espaço para expandir ainda mais minhas habilidades. Hoje, trabalho com backend, frontend e bancos de dados (relacionais e não relacionais), sempre buscando unir performance e simplicidade em cada projeto.
 
