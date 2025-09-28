@@ -71,22 +71,22 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 <div align="center">
   
 # 📫 Conecte-se comigo
-  <a href="mailto:asdanielsantos@gmail.com" target="_blank">
+  <a href="mailto:asdanielsantos@gmail.com" style="text-decoration:none;">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DanielSilvaBA" target="_blank">
+  <a href="https://github.com/DanielSilvaBA" style="text-decoration:none;">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/daniel-santos-cbr" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-santos-cbr" style="text-decoration:none;">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/daniel_santosdev/" target="_blank">
+  <a href="https://www.instagram.com/daniel_santosdev/" style="text-decoration:none;">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/FireforgeLabs" target="_blank">
+  <a href="https://www.facebook.com/FireforgeLabs" style="text-decoration:none;">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@FireforgeLabs" target="_blank">
+  <a href="https://www.youtube.com/@FireforgeLabs" style="text-decoration:none;">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" width="40"/>
   </a>  
 </div>
@@ -98,50 +98,50 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 ## 📚 Canais de estudo que recomendo
 
 <p align="center">
-  <a href="https://www.youtube.com/@RenatoAugustoTech" target="_blank">
+  <a href="https://www.youtube.com/@RenatoAugustoTech" style="text-decoration:none;">
     <img src="assets/Youtube/Renato Augusto.jpg" width="100" alt="Renato Augusto"/>
   </a>
-  <a href="https://www.youtube.com/@GutoGalego" target="_blank">
+  <a href="https://www.youtube.com/@GutoGalego" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/dWE6-n9SoZM60meRZycsmHyb4NfTyl59tq0pLbu2dk7jw77bNDvzJgqUki-zgP-_CjO3dEXoBaM=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Augusto Galego"/>
   </a>
-  <a href="https://www.youtube.com/@DiegoArmandoOM" target="_blank">
+  <a href="https://www.youtube.com/@DiegoArmandoOM" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_n_hscBmFT8FkEYdWhdzLIWY9Pq7-P8iAXmSJg4cbByL7g=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Diego ArmandoOM"/>
   </a>
-  <a href="https://www.youtube.com/@thiago_veigah" target="_blank">
+  <a href="https://www.youtube.com/@thiago_veigah" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/gTS9zgTABJORavA35ct80y8E94Wh4vNV4JLpXb27o2U9C-aGn7LDOVY3doy5HtxgJfqIFZjLRAM=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Thiago Veigah"/>
   </a> 
-  <a href="https://www.youtube.com/@joaoalves_dev" target="_blank">
+  <a href="https://www.youtube.com/@joaoalves_dev" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/0yJI9t_mXJD5IsDJvqo6QdNOEfh3e6qRaab_TCHi41jf5IVlruoWUEauWeoJ69dGFr1bxQJemg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Joao Alves dev"/>
   </a> 
-  <a href="https://www.youtube.com/@rinaldodev" target="_blank">
+  <a href="https://www.youtube.com/@rinaldodev" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/BivEkZgZdgbJM0P_wpaTWqtRzk1GRhASjGQG7xeCaOrc083iojm1ocsebh9O9DRsKQX2_xy3=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Rinaldo Dev"/>
   </a>   
-  <a href="https://www.youtube.com/@bernardo.lobato" target="_blank">
+  <a href="https://www.youtube.com/@bernardo.lobato" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/7gYvPNEcpghfP2a6EXTrWq51hIVAZwQ_HpuUSkTaGC1JUztCxlcQfSOoozyHRzhwo5OW_sFvLw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Bernas Dev"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@SoftwareDeveloperDiaries" target="_blank">
+  <a href="https://www.youtube.com/@SoftwareDeveloperDiaries" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/xIUdRtj8MI-TBR6KBpHDK5HJ9Uf2NM_SXYMYKUVo0TU7GlusSJR7_4r4n6rj_rUkBitfG2q31wA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Software Developer Diaries"/>
   </a>  
-  <a href="https://www.youtube.com/@WebDevSimplified" target="_blank">
+  <a href="https://www.youtube.com/@WebDevSimplified" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Web Dev Simplified"/>
   </a>   
-  <a href="https://www.youtube.com/@ansonthedev" target="_blank">
+  <a href="https://www.youtube.com/@ansonthedev" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/I77uQXp1B3chApP1r6tDHtq0uaPYKtew_4wa2RY6p-H4La_eoYY_cXf1jYBmtx2m0KKU5T1eWYU=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Anson The Dev"/>
   </a>  
-  <a href="https://www.youtube.com/@alexrusin" target="_blank">
+  <a href="https://www.youtube.com/@alexrusin" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/Xsj-BZV3t3CZguURRUQxg0FDDdxNU6LvOfCQKcLPZv7cuml2vkFItk4CNQAlbhEMaJzAVRE97w=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Alex Rusin"/>
   </a>
-  <a href="https://www.youtube.com/@nicbarkeragain" target="_blank">
+  <a href="https://www.youtube.com/@nicbarkeragain" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/RCBszLyhqVkeQQRjhjaZgdiNlJ9IGg1hBtD-h60pkYFYD8YRKL1_gPco6ll_Zi_nIW34hVwZ=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Nic Barker"/>
   </a>  
-  <a href="https://www.youtube.com/@DipeshMalvia" target="_blank">
+  <a href="https://www.youtube.com/@DipeshMalvia" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Net Ninja
 "/>
   </a>  
-  <a href="https://www.youtube.com/@NetNinja" target="_blank">
+  <a href="https://www.youtube.com/@NetNinja" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/mSkAZAxY6AquEb9iMLz0DQ3Fcm4hRDteGssC_aiHK0QyjqeNsRAnU6DkV6x0xUBZLTIVTwBJng=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Dipesh Malvia"/>
   </a>  
 </p>
@@ -149,22 +149,22 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 ## 📺 Canais informativos e de estudo
 
 <p align="center">
-  <a href="https://www.youtube.com/@codigofontetv" target="_blank">
+  <a href="https://www.youtube.com/@codigofontetv" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/2CkMHl_lxrIpACXMFUxU6rPiJ85SBGw7kG5SOFEoJbVVjl0sSNfDB20Xp63wUGOsCPlB_Vt3EA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Código Fonte TV"/>
   </a>
-  <a href="https://www.youtube.com/@FilipeDeschamps" target="_blank">
+  <a href="https://www.youtube.com/@FilipeDeschamps" style="text-decoration:none;">
     <img src="assets/Youtube/Filipe Deschamps.jpg" width="100" alt="Filipe Deschamps"/>
   </a>  
-  <a href="https://www.youtube.com/@LucasMontano" target="_blank">
+  <a href="https://www.youtube.com/@LucasMontano" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/vvXy8MERUMgDfpGyEtyld-gmLE9kBF2vh4ZlTR9vmN4SjT7RBaDK6I_lzhyksOj-2qwQRSmd=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Lucas Montano"/>
   </a>
-  <a href="https://www.youtube.com/@ONovoProgramador" target="_blank">
+  <a href="https://www.youtube.com/@ONovoProgramador" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/Idmw9cvB6fv09Vy2JpHlsVFe9jy7t29nIqch6pz-OLAZOLUTTISg68RvuK1qnH5Rx8kJCs4iOg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="O Novo Programador"/>
   </a>  
-  <a href="https://www.youtube.com/@rocketseat" target="_blank">
+  <a href="https://www.youtube.com/@rocketseat" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/m2DDh77RZbGfQrGpDKNIaFybLAy9jP8foYPXhlQMNxieFzEEckffauYRlWhFLL52j5TyTs8RcA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Rocketseat"/>
   </a>
-  <a href="https://www.youtube.com/@UniversoProgramado" target="_blank">
+  <a href="https://www.youtube.com/@UniversoProgramado" style="text-decoration:none;">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_lk8CpK_3d2ifgo-MgkwUaGbZIG9XtHKtxipqx8pIW1fyY=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Universo Programado"/>
   </a>
 </p>
