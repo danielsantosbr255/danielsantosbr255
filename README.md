@@ -116,6 +116,36 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
   <a href="https://www.youtube.com/@rinaldodev">
     <img src="https://yt3.googleusercontent.com/BivEkZgZdgbJM0P_wpaTWqtRzk1GRhASjGQG7xeCaOrc083iojm1ocsebh9O9DRsKQX2_xy3=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Rinaldo Dev"/>
   </a>   
+  <a href="https://www.youtube.com/@Sujeitoprogramador">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_nTUT9kckaNnLii3NCep9r5_2ZbSWDE6E11wW0bmx1W5Y0=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Sujeito programador"/>
+  </a>   
+  <a href="https://www.youtube.com/@marialazaradev">
+    <img src="https://yt3.googleusercontent.com/-PWHz53YidhkTbge_d-3cUwwmUUckz__toAVfVBB1C6wbXAphSVSbeUhklKbYiA0XHbtrd35dA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Maria Lazara"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Curso em Vídeo"/>
+  </a>
+  <a href="https://www.youtube.com/@cod3r">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_kO9-Rchy8VH12uaUEweHj0Mue9YfunD6R9QMVRnx05IQ=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Cod3r Cursos"/>
+  </a> 
+  <a href="https://www.youtube.com/@rocketseat">
+    <img src="https://yt3.googleusercontent.com/m2DDh77RZbGfQrGpDKNIaFybLAy9jP8foYPXhlQMNxieFzEEckffauYRlWhFLL52j5TyTs8RcA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Rocketseat"/>
+  </a>
+  <a href="https://www.youtube.com/@canaldevclub">
+    <img src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="DevClub | Programação"/>
+  </a>
+  <a href="https://www.youtube.com/@DevClubPRO">
+    <img src="https://yt3.googleusercontent.com/Kz-63VIo_2opd-ETQUEhAwrZnTGySL3sMYC9Hz0xVrTEa-95ebVGidSKQJC7ayWPIgggIMKarQ=s160-c-k-c0x00ffffff-no-rj" width="100" alt="DevClub PRO"/>
+  </a>
+  <a href="https://www.youtube.com/@FullCycle">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_nwMxEL3bcbIKE33BbCGrj_paIIpSDr42GX-Vmo_4jIbJM=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Full Cycle"/>
+  </a> 
+  <a href="https://www.youtube.com/@LuizTools">
+    <img src="https://yt3.googleusercontent.com/Tf1aZOqGwu6_VTol_1sA_OJrZnBY19Ibx2OxlHbI70k8vyjifApyw8ZUQsiWgRcAaqT157kQ4w=s160-c-k-c0x00ffffff-no-rj" width="100" alt="LuizTools"/>
+  </a>   
   <a href="https://www.youtube.com/@bernardo.lobato">
     <img src="https://yt3.googleusercontent.com/7gYvPNEcpghfP2a6EXTrWq51hIVAZwQ_HpuUSkTaGC1JUztCxlcQfSOoozyHRzhwo5OW_sFvLw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Bernas Dev"/>
   </a>
@@ -138,11 +168,13 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
     <img src="https://yt3.googleusercontent.com/RCBszLyhqVkeQQRjhjaZgdiNlJ9IGg1hBtD-h60pkYFYD8YRKL1_gPco6ll_Zi_nIW34hVwZ=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Nic Barker"/>
   </a>  
   <a href="https://www.youtube.com/@NetNinja">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Net Ninja
-"/>
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Net Ninja"/>
   </a>  
   <a href="https://www.youtube.com/@DipeshMalvia">
     <img src="https://yt3.googleusercontent.com/mSkAZAxY6AquEb9iMLz0DQ3Fcm4hRDteGssC_aiHK0QyjqeNsRAnU6DkV6x0xUBZLTIVTwBJng=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Dipesh Malvia"/>
+  </a>  
+  <a href="https://www.youtube.com/@TechWorldwithNana">
+    <img src="https://yt3.googleusercontent.com/ZAuMKdMcyV3mhX857oCGWzQAQ4AqZhiDIO76MTC_DqckrujSNg5Mh2AQh6ngWYv7bzfu7TBoj24=s160-c-k-c0x00ffffff-no-rj" width="100" alt="TechWorld with Nana"/>
   </a>  
 </p>
 
@@ -158,12 +190,15 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
   <a href="https://www.youtube.com/@LucasMontano">
     <img src="https://yt3.googleusercontent.com/vvXy8MERUMgDfpGyEtyld-gmLE9kBF2vh4ZlTR9vmN4SjT7RBaDK6I_lzhyksOj-2qwQRSmd=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Lucas Montano"/>
   </a>
+  <a href="https://www.youtube.com/@Akitando">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_l9jtAcERHIts0q6LsUtmAGPzQ8p8FzKGAoYRJ1N3Wz3Hs0=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Fabio Akita"/>
+  </a>
+  <a href="https://www.youtube.com/@attekitadev">
+    <img src="https://yt3.googleusercontent.com/wouftQsBoVBmxgKhsUDdEMTjbryCdl7pEOvh2Wy3NPrBpgY3K5RNAnMgXU8-TD3G20z4GYsy=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Attekita Dev"/>
+  </a>
   <a href="https://www.youtube.com/@ONovoProgramador">
     <img src="https://yt3.googleusercontent.com/Idmw9cvB6fv09Vy2JpHlsVFe9jy7t29nIqch6pz-OLAZOLUTTISg68RvuK1qnH5Rx8kJCs4iOg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="O Novo Programador"/>
   </a>  
-  <a href="https://www.youtube.com/@rocketseat">
-    <img src="https://yt3.googleusercontent.com/m2DDh77RZbGfQrGpDKNIaFybLAy9jP8foYPXhlQMNxieFzEEckffauYRlWhFLL52j5TyTs8RcA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Rocketseat"/>
-  </a>
   <a href="https://www.youtube.com/@UniversoProgramado">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_lk8CpK_3d2ifgo-MgkwUaGbZIG9XtHKtxipqx8pIW1fyY=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Universo Programado"/>
   </a>
