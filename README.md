@@ -99,7 +99,7 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 
 <p align="center">
   <a href="https://www.youtube.com/@RenatoAugustoTech">
-    <img src="assets/Youtube/Renato Augusto.jpg" width="100" alt="Renato Augusto"/>
+    <img src="https://yt3.googleusercontent.com/F-zRp2IoHmSd3-rBwsGeVyDx4hGtzez424c4omj58irEAXn6eho5OzGJ818Bpb5VuM0Ibw7-lA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Renato Augusto"/>
   </a>
   <a href="https://www.youtube.com/@GutoGalego">
     <img src="https://yt3.googleusercontent.com/dWE6-n9SoZM60meRZycsmHyb4NfTyl59tq0pLbu2dk7jw77bNDvzJgqUki-zgP-_CjO3dEXoBaM=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Augusto Galego"/>
@@ -185,7 +185,7 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
     <img src="https://yt3.googleusercontent.com/2CkMHl_lxrIpACXMFUxU6rPiJ85SBGw7kG5SOFEoJbVVjl0sSNfDB20Xp63wUGOsCPlB_Vt3EA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Código Fonte TV"/>
   </a>
   <a href="https://www.youtube.com/@FilipeDeschamps">
-    <img src="assets/Youtube/Filipe Deschamps.jpg" width="100" alt="Filipe Deschamps"/>
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_l2dYLob_k5biaqXR_dOPX6yOtT1PPOo4l4fw5-NaPe-A=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Filipe Deschamps"/>
   </a>  
   <a href="https://www.youtube.com/@LucasMontano">
     <img src="https://yt3.googleusercontent.com/vvXy8MERUMgDfpGyEtyld-gmLE9kBF2vh4ZlTR9vmN4SjT7RBaDK6I_lzhyksOj-2qwQRSmd=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Lucas Montano"/>
