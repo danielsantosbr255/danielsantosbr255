@@ -36,25 +36,133 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 
 ## 🚀 Tecnologias que utilizo
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,react,nextjs,tailwind,nodejs,nestjs,express,postgres,mongodb,docker,git,github,vscode&perline=30" />
-</div>
+</div> -->
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="VsCode" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="VsCode" />
+      <br>Nest.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="VsCode" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="VsCode" />
+      <br>Kafka
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="VsCode" />
+      <br>Next.js
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="VsCode" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+ </tr>
+</table>
 
 <br/>
 
 ## 📈 Estatísticas & Top Linguagens
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=danielsantosbr255&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    alt="GitHub Stats" 
-    height="180"    
-  />  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantosbr255&theme=tokyonight&langs_count=4&card_width=500&custom_title=Linguagens%20Mais%20Usadas&layout=normal" 
-    alt="Top Linguagens" 
-    height="180" 
-  />
+  <a href="https://github.com/danielsantosbr255/beautiful-github-homepage">
+    <picture>
+      <img height='180px' src="https://beautiful-github-homepage.vercel.app/api?username=danielsantosbr255&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" />
+    </picture></a>
+  <a href="https://github.com/danielsantosbr255/beautiful-github-homepage">
+    <picture>
+      <img align="" height='180px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=danielsantosbr255&hide_title=false&layout=compact&theme=gotham&count_private=true&custom_title=Linguagens%20Mais%20Usadas" />
+    </picture>
+  </a>
 </p>
 
 ## 📊 Meus Projetos em Destaque
