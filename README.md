@@ -153,6 +153,13 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 
 ## 📈 Estatísticas & Top Linguagens
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="danielsantosbr255's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danielsantosbr255&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
+
+<br/>
+<br/>
+
 <p align="center">
   <a href="https://github.com/danielsantosbr255/beautiful-github-homepage">
     <picture>
@@ -164,15 +171,6 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
     </picture>
   </a>
 </p>
-
-## 📊 Meus Projetos em Destaque
-
-<div align="center" width="100%">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielsantosbr255&repo=study-bookstore&theme=tokyonight&description_lines_count=2&show_owner=true)](https://github.com/danielsantosbr255/study-bookstore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielsantosbr255&repo=study-leetcode&theme=tokyonight&description_lines_count=2&show_owner=true)](https://github.com/danielsantosbr255/study-leetcode)
-
-</div>
 
 <br/>
   
