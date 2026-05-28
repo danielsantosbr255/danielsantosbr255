@@ -178,23 +178,23 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
   
 # 📫 Conecte-se comigo
   <a href="mailto:asdanielsantos@gmail.com">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DanielSilvaBA">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-santos-cbr">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/daniel_santosdev/">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/FireforgeLabs">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="40"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@FireforgeLabs">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" width="40"/>
-  </a>  
+    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="70"/>
+  </a>    
 </div>
 
 <br/>
