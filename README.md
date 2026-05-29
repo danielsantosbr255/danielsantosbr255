@@ -8,37 +8,44 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Developer-8%2B%20Anos-informational?style=for-the-badge&logo=unity" alt="Experiência como Game Developer">
-  <img src="https://img.shields.io/badge/Fullstack%20Web-1%2B%20Anos-blue?style=for-the-badge&logo=react" alt="Experiência em Web Development">
+  <img src="https://img.shields.io/badge/Fullstack%20Web-2%20Anos-blue?style=for-the-badge&logo=react" alt="Experiência em Web Development">
   <img src="https://img.shields.io/badge/Back--End-Node.js%20%7C%20Nest.js-critical?style=for-the-badge&logo=nestjs" alt="Tecnologias de Back-End">
   <img src="https://img.shields.io/badge/Front--End-Next.js%20%7C%20React.js-critical?style=for-the-badge&logo=nextdotjs" alt="Tecnologias de Front-End">
 </p>
 
 ## 🧑‍💻 Sobre mim
 
-Minha história na programação começou no universo dos jogos, onde passei mais de 8 anos criando, testando e aprendendo na prática como transformar ideias em algo que realmente funciona. Foi aí que construí uma base sólida em lógica, criatividade e solução de problemas.
+Olá, eu sou o Daniel. Sou um Desenvolvedor Web Full Stack Júnior com uma bagagem sólida na engenharia de software. Tenho 8 anos de experiência prática no desenvolvimento de jogos, onde construí uma fundação muito forte em lógica de programação e estruturação de sistemas.
 
-Com o tempo, senti a necessidade de explorar novos caminhos e encontrei no desenvolvimento web um espaço para expandir ainda mais minhas habilidades. Hoje, trabalho com backend, frontend e bancos de dados (relacionais e não relacionais), sempre buscando unir performance e simplicidade em cada projeto.
+Como autodidata, coloco a disciplina e a entrega técnica em primeiro lugar. No último ano e meio, dediquei mais de 4.300 horas intensivas ao desenvolvimento web, mantendo também o aprimoramento constante do meu inglês, no qual possuo nível intermediário.
 
-Tenho um cuidado especial com a forma de escrever código: gosto que seja limpo, organizado e fácil de entender. Organização, simplicidade e coerência são meus princípios. Para isso, estudo bastante sobre boas práticas e arquitetura de software, mas sempre com foco no que realmente ajuda no dia a dia. Conceitos como Clean Code, SOLID, DDD e Clean Architecture fazem parte da minha bagagem, assim como padrões clássicos do catálogo GOF.
+---
 
-Entre os que considero mais úteis e aplicáveis no dia a dia estão:
+### ⚡ Do Código Bruto à Engenharia de Soluções
 
-- **Repository Pattern**
-- **Adapter**
-- **Strategy**
-- **Factory**
-- **MVC**
-- **Object Calisthenics**
+Para oferecer o máximo de valor técnico, conecto a fundação forte do desenvolvimento tradicional à velocidade e escala das metodologias modernas:
 
-Esses conceitos me ajudam a criar soluções mais consistentes sem perder a simplicidade.
+* **🧱 Fundamentos Reais:** Minha trajetória começou na base da computação, estruturando lógica pura caractere por caractere. Aprendi a desenhar fluxos e escrever códigos à mão com papel e caneta para entender os algoritmos, programando em editores simples sem qualquer tipo de autocomplete. Isso me forçou a dominar a sintaxe nativa, compreender o comportamento interno das linguagens e destrinchar frameworks e ferramentas complementares de forma independente. O resultado é uma forte memória muscular e total controle sobre o que acontece por baixo dos panos, garantindo que eu saiba resolver problemas críticos no código bruto sempre que necessário.
+* **🚀 Evolução e Adaptação com IA:** Longe de ficar estagnado nos métodos antigos, transformei a IA em uma aliada estratégica de arquitetura. Em vez de usá-la superficialmente para gerar linhas genéricas, utilizo abordagens avançadas como o **Spec-Driven Development (SDD)**. Integro ecossistemas baseados em agentes, skills, context rules e MCP (*Model Context Protocol*) para automatizar tarefas repetitivas com alta fidelidade. Essa automação inteligente me permite focar na mentalidade de Arquiteto de Soluções: design de sistemas complexos, resiliência de infraestrutura e visão real de produto, validando cada etapa através de PRDs, ADRs e especificações técnicas detalhadas.
 
-Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gosto de explorar design patterns, praticar lógica em desafios como o LeetCode e testar novas ideias. Para mim, programar é colocar a mão na massa para criar soluções que funcionam de forma clara, organizada e que façam sentido no contexto.
+---
+
+### 🛠️ Conhecimentos e Práticas Técnicas
+
+No dia a dia, busco resolver problemas de forma direta, evitando complexidade desnecessária. Tenho segurança para trabalhar com conceitos estruturais avançados no design e na engenharia de aplicações:
+
+* **Arquitetura de Software & Soluções:** Mentalidade de arquiteto focada no desenho de sistemas com *System Design*, *Clean Architecture*, *Domain-Driven Design (DDD)*, *Hexagonal Architecture* e o domínio dos pilares de POO (*Polimorfismo, Encapsulamento, Abstração e Herança*).
+* **Padrões de Projeto (GoF):** Uso consciente de padrões como *Repository Pattern*, *Adapter*, *Strategy*, *Factory*, *MVC*, *Singleton* e *Facade* para garantir flexibilidade e desacoplamento de código.
+* **Mensageria & Resiliência:** Arquitetura orientada a eventos utilizando *RabbitMQ* (com implementação de *DLQ, DLX e retry queues*) e *Kafka* para a criação de sistemas altamente tolerantes a falhas e resilientes.
+* **Performance & Escalabilidade:** Otimização de performance através de estratégias avançadas de **Cache Distribuído** (com *Redis*) e implementação de comunicação assíncrona via **padrão Pub/Sub**.
+* **Engenharia de Requisitos & Documentação:** Capacidade de traduzir regras complexas de negócio em soluções de software estruturadas por meio da escrita de *PRDs* (Product Requirement Documents), *ADRs* (Architecture Decision Records) e especificações técnicas.
+* **Fluxos de IA & Produtividade (SDD):** Aplicação prática de *Spec-Driven Development (SDD)*, utilizando *agents*, *skills*, *rules*, *MCP* (Model Context Protocol) e *harness* de testes para elevar o nível de automação e precisão nas entregas.
+* **Infraestrutura & DevOps:** Vivência com ambientes *Linux*, serviços de nuvem (*AWS*) e automação de pipelines de CI/CD via *GitHub Actions*.
+* **Qualidade de Código:** Código limpo, coeso e legível baseado estritamente em *Clean Code* e diretrizes de *Object Calisthenics*.
+
+---
 
 ## 🚀 Tecnologias que utilizo
-
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,react,nextjs,tailwind,nodejs,nestjs,express,postgres,mongodb,docker,git,github,vscode&perline=30" />
-</div> -->
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -52,17 +59,15 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="VsCode" />
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="VsCode" />
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nest.js" />
       <br>Nest.js
     </td>
     <td align="center" width="96">
@@ -76,6 +81,7 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
+    </td>
   </tr>
   
   <tr>
@@ -104,22 +110,26 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="VsCode" />
-      <br>RabbitMQ
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="VsCode" />
-      <br>Kafka
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+      <br>RabbitMQ
     </td>
   </tr>
   
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="VsCode" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center"  width="96">
@@ -127,19 +137,15 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="VsCode" />
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
       <br>Terraform
     </td>
     <td align="center" width="96">
@@ -148,6 +154,7 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
     </td>
  </tr>
 </table>
+</div>
 
 <br/>
 
@@ -163,11 +170,11 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 <p align="center">
   <a href="https://github.com/danielsantosbr255/beautiful-github-homepage">
     <picture>
-      <img height='180px' src="https://beautiful-github-homepage.vercel.app/api?username=danielsantosbr255&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" />
+      <img height='180px' src="https://beautiful-github-homepage.vercel.app/api?username=danielsantosbr255&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Estágio de commits" />
     </picture></a>
   <a href="https://github.com/danielsantosbr255/beautiful-github-homepage">
     <picture>
-      <img align="" height='180px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=danielsantosbr255&hide_title=false&layout=compact&theme=gotham&count_private=true&custom_title=Linguagens%20Mais%20Usadas" />
+      <img align="" height='180px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=danielsantosbr255&hide_title=false&layout=compact&theme=gotham&count_private=true&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais usadas" />
     </picture>
   </a>
 </p>
@@ -176,24 +183,21 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
   
 <div align="center">
   
-# 📫 Conecte-se comigo
-  <a href="mailto:asdanielsantos@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70"/>
-  </a>&nbsp;&nbsp;&nbsp;
+## 📫 Conecte-se comigo
   <a href="https://github.com/DanielSilvaBA">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" alt="Github"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-santos-cbr">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/daniel_santosdev/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70" alt="Instagram"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/FireforgeLabs">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70" alt="Facebook"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@FireforgeLabs">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="70"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="70" alt="YouTube"/>
   </a>    
 </div>
 
@@ -201,7 +205,9 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
 
 <div align="center" style="text-align:center;">
 
-## 📚 Canais de estudo que recomendo
+## 💻 Aprendizado Técnico & Mão na Massa
+
+Canais focados em engenharia de software, arquitetura, tutoriais práticos e desenvolvimento guiado no código bruto.
 
 <p align="center">
   <a href="https://www.youtube.com/@RenatoAugustoTech">
@@ -284,7 +290,9 @@ Sou movido pela curiosidade e pela evolução constante. No meu tempo livre, gos
   </a>  
 </p>
 
-## 📺 Canais informativos e de estudo
+## 📰 Ecossistema Tech, Notícias & Carreira
+
+Fontes essenciais para acompanhar as tendências do mercado de TI, análises do setor, dicas de carreira e novidades do mundo da tecnologia.
 
 <p align="center">
   <a href="https://www.youtube.com/@codigofontetv">
