@@ -17,7 +17,7 @@
 
 Olá, eu sou o Daniel. Sou um Desenvolvedor Web Full Stack Júnior com uma bagagem sólida na engenharia de software. Tenho 8 anos de experiência prática no desenvolvimento de jogos, onde construí uma fundação muito forte em lógica de programação e estruturação de sistemas.
 
-Como autodidata, coloco a disciplina e a entrega técnica em primeiro lugar. No último ano e meio, dediquei mais de 4.300 horas intensivas ao desenvolvimento web, mantendo também o aprimoramento constante do meu inglês, no qual possuo nível intermediário.
+Como autodidata, coloco a disciplina e a entrega técnica em primeiro lugar. Tenho dedicado milhares de horas intensivas ao desenvolvimento web, mantendo também o aprimoramento constante do meu inglês, no qual possuo nível intermediário(B2).
 
 ---
 
