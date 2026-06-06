@@ -15,9 +15,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá, eu sou o Daniel. Sou um Desenvolvedor Web Full Stack Júnior com uma bagagem sólida na engenharia de software. Tenho 8 anos de experiência prática no desenvolvimento de jogos, onde construí uma fundação muito forte em lógica de programação e estruturação de sistemas.
+Olá, eu sou o Daniel. Sou um Desenvolvedor Web Full Stack Júnior com uma bagagem sólida na engenharia de software. Tenho +5 anos de experiência prática no desenvolvimento de jogos, onde construí uma fundação muito forte em lógica de programação e estruturação de sistemas.
 
-Como autodidata, coloco a disciplina e a entrega técnica em primeiro lugar. Tenho dedicado milhares de horas intensivas ao desenvolvimento web, mantendo também o aprimoramento constante do meu inglês, no qual possuo nível intermediário(B2).
+Como autodidata, coloco a disciplina e a entrega técnica em primeiro lugar. Tenho dedicado milhares de horas intensivas ao desenvolvimento web, mantendo também o aprimoramento constante do meu inglês, no qual possuo nível intermediário (B2).
 
 ---
 
@@ -26,7 +26,7 @@ Como autodidata, coloco a disciplina e a entrega técnica em primeiro lugar. Ten
 Para oferecer o máximo de valor técnico, conecto a fundação forte do desenvolvimento tradicional à velocidade e escala das metodologias modernas:
 
 * **🧱 Fundamentos Reais:** Minha trajetória começou na base da computação, estruturando lógica pura caractere por caractere. Aprendi a desenhar fluxos e escrever códigos à mão com papel e caneta para entender os algoritmos, programando em editores simples sem qualquer tipo de autocomplete. Isso me forçou a dominar a sintaxe nativa, compreender o comportamento interno das linguagens e destrinchar frameworks e ferramentas complementares de forma independente. O resultado é uma forte memória muscular e total controle sobre o que acontece por baixo dos panos, garantindo que eu saiba resolver problemas críticos no código bruto sempre que necessário.
-* **🚀 Evolução e Adaptação com IA:** Longe de ficar estagnado nos métodos antigos, transformei a IA em uma aliada estratégica de arquitetura. Em vez de usá-la superficialmente para gerar linhas genéricas, utilizo abordagens avançadas como o **Spec-Driven Development (SDD)**. Integro ecossistemas baseados em agentes, skills, context rules e MCP (*Model Context Protocol*) para automatizar tarefas repetitivas com alta fidelidade. Essa automação inteligente me permite focar na mentalidade de Arquiteto de Soluções: design de sistemas complexos, resiliência de infraestrutura e visão real de produto, validando cada etapa através de PRDs, ADRs e especificações técnicas detalhadas.
+* **🚀 Evolução e Adaptação com IA:** Longe de ficar estagnado nos métodos antigos, transformei a IA em uma aliada estratégica de arquitetura. Em vez de usá-la superficialmente para gerar linhas genéricas, utilizo abordagens avançadas como o **Spec-Driven Development (SDD)**. Integro ecossistemas baseados em agentes, skills, rules e MCP (*Model Context Protocol*) para automatizar tarefas repetitivas com alta fidelidade. Essa automação inteligente me permite focar na mentalidade de Arquiteto de Soluções: design de sistemas complexos, resiliência de infraestrutura e visão real de produto, validando cada etapa através de PRDs, ADRs e especificações técnicas detalhadas.
 
 ---
 
