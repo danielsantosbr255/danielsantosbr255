@@ -292,7 +292,7 @@ Canais focados em engenharia de software, arquitetura, tutoriais práticos e des
 
 ## 📰 Ecossistema Tech, Notícias & Carreira
 
-Fontes essenciais para acompanhar as tendências do mercado de TI, análises do setor, dicas de carreira e novidades do mundo da tecnologia.
+Fontes essenciais para acompanhar as tendências do mercado de TI, dicas de carreira e novidades do mundo da tecnologia.
 
 <p align="center">
   <a href="https://www.youtube.com/@codigofontetv">
