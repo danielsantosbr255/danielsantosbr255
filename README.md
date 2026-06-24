@@ -15,33 +15,28 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá, eu sou o Daniel. Sou um Desenvolvedor Web Full Stack Júnior com uma bagagem sólida na engenharia de software. Tenho +5 anos de experiência prática no desenvolvimento de jogos, onde construí uma fundação muito forte em lógica de programação e estruturação de sistemas.
+Olá, eu sou o Daniel. Sou um **Desenvolvedor Full Stack** focado em engenharia de software, arquitetura de sistemas e código limpo.
 
-Como autodidata, coloco a disciplina e a entrega técnica em primeiro lugar. Tenho dedicado milhares de horas intensivas ao desenvolvimento web, mantendo também o aprimoramento constante do meu inglês, no qual possuo nível intermediário (B2).
-
----
-
-### ⚡ Do Código Bruto à Engenharia de Soluções
-
-Para oferecer o máximo de valor técnico, conecto a fundação forte do desenvolvimento tradicional à velocidade e escala das metodologias modernas:
-
-* **🧱 Fundamentos Reais:** Minha trajetória começou na base da computação, estruturando lógica pura caractere por caractere. Aprendi a desenhar fluxos e escrever códigos à mão com papel e caneta para entender os algoritmos, programando em editores simples sem qualquer tipo de autocomplete. Isso me forçou a dominar a sintaxe nativa, compreender o comportamento interno das linguagens e destrinchar frameworks e ferramentas complementares de forma independente. O resultado é uma forte memória muscular e total controle sobre o que acontece por baixo dos panos, garantindo que eu saiba resolver problemas críticos no código bruto sempre que necessário.
-* **🚀 Evolução e Adaptação com IA:** Longe de ficar estagnado nos métodos antigos, transformei a IA em uma aliada estratégica de arquitetura. Em vez de usá-la superficialmente para gerar linhas genéricas, utilizo abordagens avançadas como o **Spec-Driven Development (SDD)**. Integro ecossistemas baseados em agentes, skills, rules e MCP (*Model Context Protocol*) para automatizar tarefas repetitivas com alta fidelidade. Essa automação inteligente me permite focar na mentalidade de Arquiteto de Soluções: design de sistemas complexos, resiliência de infraestrutura e visão real de produto, validando cada etapa através de PRDs, ADRs e especificações técnicas detalhadas.
+Minha base na programação foi forjada ao longo de **+5 anos no desenvolvimento de jogos**, onde construí uma lógica afiada e uma compreensão profunda de como o código se comporta na base. Há **uns 2 anos**, direcionei essa bagagem técnica para o desenvolvimento Full Stack, construindo aplicações robustas, escaláveis e focadas em regras de negócio complexas.
 
 ---
 
-### 🛠️ Conhecimentos e Práticas Técnicas
+### 🚀 Engenharia de Soluções e IA Aplicada
 
-No dia a dia, busco resolver problemas de forma direta, evitando complexidade desnecessária. Tenho segurança para trabalhar com conceitos estruturais avançados no design e na engenharia de aplicações:
+Acredito que um bom desenvolvedor não apenas escreve código, mas resolve problemas. Gosto de entender as ferramentas por debaixo dos panos, evitando complexidade acidental e focando naquilo que entrega valor.
 
-* **Arquitetura de Software & Soluções:** Mentalidade de arquiteto focada no desenho de sistemas com *System Design*, *Clean Architecture*, *Domain-Driven Design (DDD)*, *Hexagonal Architecture* e o domínio dos pilares de POO (*Polimorfismo, Encapsulamento, Abstração e Herança*).
-* **Padrões de Projeto (GoF):** Uso consciente de padrões como *Repository Pattern*, *Adapter*, *Strategy*, *Factory*, *MVC*, *Singleton* e *Facade* para garantir flexibilidade e desacoplamento de código.
-* **Mensageria & Resiliência:** Arquitetura orientada a eventos utilizando *RabbitMQ* (com implementação de *DLQ, DLX e retry queues*) e *Kafka* para a criação de sistemas altamente tolerantes a falhas e resilientes.
-* **Performance & Escalabilidade:** Otimização de performance através de estratégias avançadas de **Cache Distribuído** (com *Redis*) e implementação de comunicação assíncrona via **padrão Pub/Sub**.
-* **Engenharia de Requisitos & Documentação:** Capacidade de traduzir regras complexas de negócio em soluções de software estruturadas por meio da escrita de *PRDs* (Product Requirement Documents), *ADRs* (Architecture Decision Records) e especificações técnicas.
-* **Fluxos de IA & Produtividade (SDD):** Aplicação prática de *Spec-Driven Development (SDD)*, utilizando *agents*, *skills*, *rules*, *MCP* (Model Context Protocol) e *harness* de testes para elevar o nível de automação e precisão nas entregas.
-* **Infraestrutura & DevOps:** Vivência com ambientes *Linux*, serviços de nuvem (*AWS*) e automação de pipelines de CI/CD via *GitHub Actions*.
-* **Qualidade de Código:** Código limpo, coeso e legível baseado estritamente em *Clean Code* e diretrizes de *Object Calisthenics*.
+Hoje, utilizo a Inteligência Artificial como uma verdadeira aliada de arquitetura. Aplico conceitos de **Spec-Driven Development (SDD)**, integrando ecossistemas de agentes e *MCP (Model Context Protocol)* para automatizar rotinas operacionais e a geração de *boilerplate*. Isso me permite investir meu tempo naquilo que exige visão humana: *System Design*, resiliência de infraestrutura e alinhamento com o produto.
+
+### 🛠️ Caixa de Ferramentas e Práticas Técnicas
+
+Tenho segurança para discutir e aplicar padrões arquiteturais modernos, priorizando sistemas desacoplados e tolerantes a falhas. No meu dia a dia, utilizo e aprofundo conhecimentos em:
+
+* 🏛️ **Arquitetura & Design:** *Clean Architecture, Domain-Driven Design (DDD), Arquitetura Hexagonal*, POO Avançada (*SOLID*) e Padrões de Projeto (GoF).
+* ⚡ **Performance & Mensageria:** Construção de sistemas resilientes e comunicação assíncrona utilizando *RabbitMQ* (com *DLQ/DLX* e *retry queues*), *Kafka*, padrão *Pub/Sub* e *Redis* para Cache Distribuído.
+* 🤖 **Engenharia com IA:** Automação avançada de fluxos com *MCP*, *agents* e *rules*.
+* ⚙️ **Infraestrutura & DevOps:** Vivência em ambientes *Linux*, serviços de nuvem (*AWS*) e estruturação de pipelines de CI/CD via *GitHub Actions*.
+* 📝 **Engenharia de Requisitos:** Capacidade de traduzir regras complexas de negócio para a engenharia através da escrita de *PRDs* e *ADRs*.
+* 🌍 **Idiomas:** Inglês Intermediário (B2) – *Leitura fluente de documentações técnicas, consumo de conteúdos globais e comunicação assíncrona.*
 
 ---
 
