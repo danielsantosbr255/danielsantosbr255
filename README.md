@@ -21,19 +21,13 @@ Minha base na programação foi forjada ao longo de **+5 anos no desenvolvimento
 
 ---
 
-### 🚀 Engenharia de Soluções e IA Aplicada
-
-Acredito que um bom desenvolvedor não apenas escreve código, mas resolve problemas. Gosto de entender as ferramentas por debaixo dos panos, evitando complexidade acidental e focando naquilo que entrega valor.
-
-Hoje, utilizo a Inteligência Artificial como uma verdadeira aliada de arquitetura. Aplico conceitos de **Spec-Driven Development (SDD)**, integrando ecossistemas de agentes e *MCP (Model Context Protocol)* para automatizar rotinas operacionais e a geração de *boilerplate*. Isso me permite investir meu tempo naquilo que exige visão humana: *System Design*, resiliência de infraestrutura e alinhamento com o produto.
-
 ### 🛠️ Caixa de Ferramentas e Práticas Técnicas
 
 Tenho segurança para discutir e aplicar padrões arquiteturais modernos, priorizando sistemas desacoplados e tolerantes a falhas. No meu dia a dia, utilizo e aprofundo conhecimentos em:
 
 * 🏛️ **Arquitetura & Design:** *Clean Architecture, Domain-Driven Design (DDD), Arquitetura Hexagonal*, POO Avançada (*SOLID*) e Padrões de Projeto (GoF).
 * ⚡ **Performance & Mensageria:** Construção de sistemas resilientes e comunicação assíncrona utilizando *RabbitMQ* (com *DLQ/DLX* e *retry queues*), *Kafka*, padrão *Pub/Sub* e *Redis* para Cache Distribuído.
-* 🤖 **Engenharia com IA:** Automação avançada de fluxos com *MCP*, *agents* e *rules*.
+* 🤖 **Engenharia com IA:** Desenvolvimento avançada com *MCP*, *agents* *Harness* e *skills*. 
 * ⚙️ **Infraestrutura & DevOps:** Vivência em ambientes *Linux*, serviços de nuvem (*AWS*) e estruturação de pipelines de CI/CD via *GitHub Actions*.
 * 📝 **Engenharia de Requisitos:** Capacidade de traduzir regras complexas de negócio para a engenharia através da escrita de *PRDs* e *ADRs*.
 * 🌍 **Idiomas:** Inglês Intermediário (B2) – *Leitura fluente de documentações técnicas, consumo de conteúdos globais e comunicação assíncrona.*
