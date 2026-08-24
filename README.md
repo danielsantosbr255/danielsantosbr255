@@ -13,18 +13,15 @@
   <img src="https://img.shields.io/badge/Front--End-Next.js%20%7C%20React.js-critical?style=for-the-badge&logo=nextdotjs" alt="Tecnologias de Front-End">
 </p>
 
-## 🧑‍💻 Sobre mim
+### 🧑‍💻 Sobre mim
 
 **Desenvolvedor Full Stack** focado em engenharia de software, arquitetura de sistemas e código limpo.
 
 Tenho experiência prática em desenvolvimento backend e frontend, bancos de dados, mensageria, Docker e infraestrutura em nuvem. 
 Meu principal interesse está na construção de sistemas escaláveis e resilientes, aplicando boas práticas de engenharia de software e arquitetura.
 
----
 
-### 🛠️ Caixa de Ferramentas e Práticas Técnicas
-
-Tenho segurança para discutir e aplicar padrões arquiteturais modernos, priorizando sistemas desacoplados e tolerantes a falhas. No meu dia a dia, utilizo e aprofundo conhecimentos em:
+### 🛠️ No meu dia a dia, utilizo e aprofundo conhecimentos em
 
 * 🏛️ **Arquitetura & Design:** Clean/Hexagonal Architecture, Domain-Driven Design (DDD), OOP, SOLID e Padrões de Projeto (GoF).
 * ⚡ **Performance & Mensageria:** *RabbitMQ* (com *DLQ/DLX* e *retry queues*), padrão *Pub/Sub* e *Redis* para Cache Distribuído.
@@ -34,7 +31,7 @@ Tenho segurança para discutir e aplicar padrões arquiteturais modernos, priori
 
 ---
 
-## 🚀 Tecnologias que utilizo
+### 🚀 Tecnologias que utilizo
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -147,7 +144,7 @@ Tenho segurança para discutir e aplicar padrões arquiteturais modernos, priori
 
 <br/>
 
-## 📈 Estatísticas & Top Linguagens
+### 📈 Estatísticas & Top Linguagens
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="danielsantosbr255's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=danielsantosbr255&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
