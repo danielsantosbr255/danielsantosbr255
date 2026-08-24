@@ -29,9 +29,8 @@ Tenho segurança para discutir e aplicar padrões arquiteturais modernos, priori
 
 * 🏛️ **Arquitetura & Design:** Clean/Hexagonal Architecture, Domain-Driven Design (DDD), OOP, SOLID e Padrões de Projeto (GoF).
 * ⚡ **Performance & Mensageria:** *RabbitMQ* (com *DLQ/DLX* e *retry queues*), padrão *Pub/Sub* e *Redis* para Cache Distribuído.
-* 🤖 **Engenharia com IA:** Desenvolvimento avançada com *MCP*, *agents* *Harness* e *skills*. 
+* 🤖 **Engenharia com IA:** Desenvolvimento avançado com *MCP*, *agents*, *Harness*, *skills*, Spec-Driven e PRDs. 
 * ⚙️ **Infraestrutura & DevOps:** Ambientes *Linux*, serviços de nuvem (AWS) e estruturação de pipelines CI/CD via *GitHub Actions*.
-* 📝 **Engenharia de Requisitos:** Capacidade de traduzir regras complexas de negócio para a engenharia através da escrita de *PRDs* e *ADRs*.
 * 🌍 **Idiomas:** Inglês Intermediário (B2) – *Leitura de documentações técnicas.*
 
 ---
