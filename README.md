@@ -15,9 +15,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá, eu sou o Daniel. Sou um **Desenvolvedor Full Stack** focado em engenharia de software, arquitetura de sistemas e código limpo.
+Olá, eu sou o Daniel. **Desenvolvedor Full Stack** focado em engenharia de software, arquitetura de sistemas e código limpo.
 
-Minha base na programação foi forjada ao longo de **+5 anos no desenvolvimento de jogos**, onde construí uma lógica afiada e uma compreensão profunda de como o código se comporta na base. Há **uns 2 anos**, direcionei essa bagagem técnica para o desenvolvimento Full Stack, construindo aplicações robustas, escaláveis e focadas em regras de negócio complexas.
+Iniciei minha trajetória profissional no desenvolvimento de jogos e, atualmente, tenho me dedicado à construção de aplicações web modernas, atuando em todo o ciclo de desenvolvimento, da modelagem da solução ao deploy em produção.
+
+Tenho experiência prática em desenvolvimento backend e frontend, bancos de dados, mensageria, Docker e infraestrutura em nuvem. Meu principal interesse está na construção de sistemas escaláveis e resilientes, aplicando boas práticas de engenharia de software e arquitetura.
 
 ---
 
