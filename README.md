@@ -17,9 +17,8 @@
 
 **Desenvolvedor Full Stack** focado em engenharia de software, arquitetura de sistemas e código limpo.
 
-Iniciei minha trajetória profissional no desenvolvimento de jogos e, atualmente, tenho me dedicado à construção de aplicações web modernas, atuando em todo o ciclo de desenvolvimento, da modelagem da solução ao deploy em produção.
-
-Tenho experiência prática em desenvolvimento backend e frontend, bancos de dados, mensageria, Docker e infraestrutura em nuvem. Meu principal interesse está na construção de sistemas escaláveis e resilientes, aplicando boas práticas de engenharia de software e arquitetura.
+Tenho experiência prática em desenvolvimento backend e frontend, bancos de dados, mensageria, Docker e infraestrutura em nuvem. 
+Meu principal interesse está na construção de sistemas escaláveis e resilientes, aplicando boas práticas de engenharia de software e arquitetura.
 
 ---
 
@@ -224,6 +223,9 @@ Canais focados em engenharia de software, arquitetura, tutoriais práticos e des
   <a href="https://www.youtube.com/@marialazaradev">
     <img src="https://yt3.googleusercontent.com/-PWHz53YidhkTbge_d-3cUwwmUUckz__toAVfVBB1C6wbXAphSVSbeUhklKbYiA0XHbtrd35dA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Maria Lazara"/>
   </a>
+  <a href="https://www.youtube.com/@ansonthedev">
+    <img src="https://yt3.googleusercontent.com/I77uQXp1B3chApP1r6tDHtq0uaPYKtew_4wa2RY6p-H4La_eoYY_cXf1jYBmtx2m0KKU5T1eWYU=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Anson The Dev"/>
+  </a> 
 </p>
 
 <p align="center">
@@ -236,47 +238,23 @@ Canais focados em engenharia de software, arquitetura, tutoriais práticos e des
   <a href="https://www.youtube.com/@rocketseat">
     <img src="https://yt3.googleusercontent.com/m2DDh77RZbGfQrGpDKNIaFybLAy9jP8foYPXhlQMNxieFzEEckffauYRlWhFLL52j5TyTs8RcA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Rocketseat"/>
   </a>
-  <a href="https://www.youtube.com/@canaldevclub">
-    <img src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="DevClub | Programação"/>
-  </a>
   <a href="https://www.youtube.com/@DevClubPRO">
     <img src="https://yt3.googleusercontent.com/Kz-63VIo_2opd-ETQUEhAwrZnTGySL3sMYC9Hz0xVrTEa-95ebVGidSKQJC7ayWPIgggIMKarQ=s160-c-k-c0x00ffffff-no-rj" width="100" alt="DevClub PRO"/>
   </a>
   <a href="https://www.youtube.com/@FullCycle">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_nwMxEL3bcbIKE33BbCGrj_paIIpSDr42GX-Vmo_4jIbJM=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Full Cycle"/>
   </a> 
-  <a href="https://www.youtube.com/@LuizTools">
-    <img src="https://yt3.googleusercontent.com/Tf1aZOqGwu6_VTol_1sA_OJrZnBY19Ibx2OxlHbI70k8vyjifApyw8ZUQsiWgRcAaqT157kQ4w=s160-c-k-c0x00ffffff-no-rj" width="100" alt="LuizTools"/>
-  </a>   
   <a href="https://www.youtube.com/@bernardo.lobato">
     <img src="https://yt3.googleusercontent.com/7gYvPNEcpghfP2a6EXTrWq51hIVAZwQ_HpuUSkTaGC1JUztCxlcQfSOoozyHRzhwo5OW_sFvLw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Bernas Dev"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/@SoftwareDeveloperDiaries">
     <img src="https://yt3.googleusercontent.com/xIUdRtj8MI-TBR6KBpHDK5HJ9Uf2NM_SXYMYKUVo0TU7GlusSJR7_4r4n6rj_rUkBitfG2q31wA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Software Developer Diaries"/>
   </a>  
-  <a href="https://www.youtube.com/@WebDevSimplified">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Web Dev Simplified"/>
-  </a>   
-  <a href="https://www.youtube.com/@ansonthedev">
-    <img src="https://yt3.googleusercontent.com/I77uQXp1B3chApP1r6tDHtq0uaPYKtew_4wa2RY6p-H4La_eoYY_cXf1jYBmtx2m0KKU5T1eWYU=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Anson The Dev"/>
-  </a>  
-  <a href="https://www.youtube.com/@alexrusin">
-    <img src="https://yt3.googleusercontent.com/Xsj-BZV3t3CZguURRUQxg0FDDdxNU6LvOfCQKcLPZv7cuml2vkFItk4CNQAlbhEMaJzAVRE97w=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Alex Rusin"/>
-  </a>
   <a href="https://www.youtube.com/@nicbarkeragain">
     <img src="https://yt3.googleusercontent.com/RCBszLyhqVkeQQRjhjaZgdiNlJ9IGg1hBtD-h60pkYFYD8YRKL1_gPco6ll_Zi_nIW34hVwZ=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Nic Barker"/>
   </a>  
   <a href="https://www.youtube.com/@NetNinja">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Net Ninja"/>
-  </a>  
-  <a href="https://www.youtube.com/@DipeshMalvia">
-    <img src="https://yt3.googleusercontent.com/mSkAZAxY6AquEb9iMLz0DQ3Fcm4hRDteGssC_aiHK0QyjqeNsRAnU6DkV6x0xUBZLTIVTwBJng=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Dipesh Malvia"/>
-  </a>  
-  <a href="https://www.youtube.com/@TechWorldwithNana">
-    <img src="https://yt3.googleusercontent.com/ZAuMKdMcyV3mhX857oCGWzQAQ4AqZhiDIO76MTC_DqckrujSNg5Mh2AQh6ngWYv7bzfu7TBoj24=s160-c-k-c0x00ffffff-no-rj" width="100" alt="TechWorld with Nana"/>
   </a>  
 </p>
 
