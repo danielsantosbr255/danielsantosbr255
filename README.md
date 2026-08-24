@@ -223,9 +223,6 @@ Canais focados em engenharia de software, arquitetura, tutoriais práticos e des
   <a href="https://www.youtube.com/@marialazaradev">
     <img src="https://yt3.googleusercontent.com/-PWHz53YidhkTbge_d-3cUwwmUUckz__toAVfVBB1C6wbXAphSVSbeUhklKbYiA0XHbtrd35dA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Maria Lazara"/>
   </a>
-  <a href="https://www.youtube.com/@ansonthedev">
-    <img src="https://yt3.googleusercontent.com/I77uQXp1B3chApP1r6tDHtq0uaPYKtew_4wa2RY6p-H4La_eoYY_cXf1jYBmtx2m0KKU5T1eWYU=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Anson The Dev"/>
-  </a> 
 </p>
 
 <p align="center">
@@ -249,9 +246,6 @@ Canais focados em engenharia de software, arquitetura, tutoriais práticos e des
   </a>
   <a href="https://www.youtube.com/@SoftwareDeveloperDiaries">
     <img src="https://yt3.googleusercontent.com/xIUdRtj8MI-TBR6KBpHDK5HJ9Uf2NM_SXYMYKUVo0TU7GlusSJR7_4r4n6rj_rUkBitfG2q31wA=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Software Developer Diaries"/>
-  </a>  
-  <a href="https://www.youtube.com/@nicbarkeragain">
-    <img src="https://yt3.googleusercontent.com/RCBszLyhqVkeQQRjhjaZgdiNlJ9IGg1hBtD-h60pkYFYD8YRKL1_gPco6ll_Zi_nIW34hVwZ=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Nic Barker"/>
   </a>  
   <a href="https://www.youtube.com/@NetNinja">
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_mk2Ex-8sW03SBlBX7D1EC5skH0kv9rS3rU9IXq2I-q2Zg=s160-c-k-c0x00ffffff-no-rj" width="100" alt="Net Ninja"/>
