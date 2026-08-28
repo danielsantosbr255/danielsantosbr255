@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Developer-5%2B%20Anos-informational?style=for-the-badge&logo=unity" alt="Experiência como Game Developer">
-  <img src="https://img.shields.io/badge/Fullstack%20Web-2%20Anos-blue?style=for-the-badge&logo=react" alt="Experiência em Web Development">
+  <img src="https://img.shields.io/badge/Fullstack%20Web-2%20Anos-blue?style=for-the-badge&logo=nextdotjs" alt="Experiência em Web Development">
   <img src="https://img.shields.io/badge/Back--End-Node.js%20%7C%20Nest.js-critical?style=for-the-badge&logo=nestjs" alt="Tecnologias de Back-End">
-  <img src="https://img.shields.io/badge/Front--End-Next.js%20%7C%20React.js-critical?style=for-the-badge&logo=nextdotjs" alt="Tecnologias de Front-End">
+  <img src="https://img.shields.io/badge/Front--End-Next.js%20%7C%20React.js-critical?style=for-the-badge&logo=react" alt="Tecnologias de Front-End">
 </p>
 
 ### 🧑‍💻 Sobre mim
